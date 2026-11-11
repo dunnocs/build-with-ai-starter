@@ -1,0 +1,6 @@
+{
+  "name": "SG Park & Ride: SMU Stop 04121 Commute & Carpark Decision Engine",
+  "description": "Real-time Singapore bus arrival board for Stop 04121 (SMU Stamford Rd) paired with LTA carpark availability to decide whether to drive directly to campus or park further out and bus in.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
